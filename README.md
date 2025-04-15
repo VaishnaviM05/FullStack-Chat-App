@@ -1,4 +1,5 @@
 💬 Real-Time Chat App
+
 A full-featured real-time chat application built with the MERN stack, powered by Socket.io for live communication, JWT for secure authentication, and styled with TailwindCSS + Daisy UI for a modern, responsive user experience.
 
 🚀 Features
